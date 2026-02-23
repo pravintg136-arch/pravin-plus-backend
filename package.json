@@ -13,30 +13,3 @@
     "node": ">=18"
   }
 }
-```
-Tap **Commit new file** ✅
-
----
-
-**File 2 — name it:** `server.js`
-
-Paste the `server.js` content from the file I gave you earlier. Tap **Commit new file** ✅
-
----
-
-## Step 4 — Deploy on Railway
-1. Open **railway.app** on your phone
-2. Sign up using your **GitHub account** (tap "Login with GitHub")
-3. Tap **New Project**
-4. Tap **Deploy from GitHub repo**
-5. Select `pravin-plus-backend`
-6. Railway auto-detects Node.js and deploys it 🚀
-
----
-
-## Step 5 — Get Your URL
-1. After deploy, tap your project → **Settings** → **Domains**
-2. Tap **Generate Domain**
-3. You'll get a URL like:
-```
-https://pravin-plus-backend-production.up.railway.app
