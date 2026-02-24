@@ -1,9 +1,13 @@
 {
-  "name": "pravin-backend",
-  "version": "1.0.0",
+  "name": "pravin-plus-backend",
+  "version": "2.0.0",
+  "description": "PRAVIN+ Trading Terminal – Render Backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "cors": "^2.8.5",
